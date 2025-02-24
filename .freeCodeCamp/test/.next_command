@@ -50,3 +50,5 @@ echo hello bash > stdout
 echo hello bash > stdout.txt
 rm stdout
 read NAME
+echo NAME
+echo $NAME
