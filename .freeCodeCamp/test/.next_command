@@ -40,3 +40,5 @@ cat stdout.txt
 > stdout.txt
 cat stdout.txt
 bad_command
+bad_command > stder.txt
+bad_command > stderr.txt
