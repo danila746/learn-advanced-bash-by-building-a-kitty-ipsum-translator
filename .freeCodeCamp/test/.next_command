@@ -36,3 +36,5 @@ echo hello bash >> stdout.txt
 ls --color=auto -l
 cat stdout.txt
 echo hello bash > stdout.txt
+cat stdout.txt
+> stdout.txt
