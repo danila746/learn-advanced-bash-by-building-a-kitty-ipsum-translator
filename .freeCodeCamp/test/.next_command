@@ -38,3 +38,5 @@ cat stdout.txt
 echo hello bash > stdout.txt
 cat stdout.txt
 > stdout.txt
+cat stdout.txt
+bad_command
