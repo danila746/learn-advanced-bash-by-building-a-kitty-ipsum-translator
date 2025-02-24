@@ -48,3 +48,5 @@ bad_command 2> stderr.txt
 cat stderr.txt
 echo hello bash > stdout
 echo hello bash > stdout.txt
+rm stdout
+read NAME
