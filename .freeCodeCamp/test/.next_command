@@ -52,3 +52,4 @@ rm stdout
 read NAME
 echo NAME
 echo $NAME
+echo $NAME > stdout.txt
