@@ -133,3 +133,5 @@ cat $NAME
 cat
 cat name.txt
 cat < name.txt
+echo Dan
+echo Dan
