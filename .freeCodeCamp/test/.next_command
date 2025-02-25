@@ -137,3 +137,4 @@ echo Dan
 echo Dan
 rm cat
 touch script.sh
+chmod +x script.sh
