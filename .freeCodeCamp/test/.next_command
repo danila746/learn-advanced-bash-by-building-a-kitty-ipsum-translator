@@ -144,3 +144,6 @@ ls --color=auto -l
 ./script.sh
 ./script.sh
 ./script.sh
+./script.sh
+./script.sh
+echo Fer
