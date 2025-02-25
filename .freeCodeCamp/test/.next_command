@@ -139,3 +139,4 @@ rm cat
 touch script.sh
 chmod +x script.sh
 ls --color=auto -l
+./script.sh
