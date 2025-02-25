@@ -135,3 +135,5 @@ cat name.txt
 cat < name.txt
 echo Dan
 echo Dan
+rm cat
+touch script.sh
