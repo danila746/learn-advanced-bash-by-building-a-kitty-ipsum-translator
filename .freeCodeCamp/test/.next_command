@@ -151,3 +151,9 @@ echo Fer
 echo Fer
 echo Fer
 echo Fer
+echo name.txt
+echo $name.txt
+cat name.txt
+cat name.txt
+./script.sh name.txt < cat
+./script.sh < name.txt
