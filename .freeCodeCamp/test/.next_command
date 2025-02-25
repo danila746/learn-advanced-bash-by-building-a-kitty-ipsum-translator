@@ -129,3 +129,5 @@ read name
 echo $NAME
 echo Dan
 echo $NAME
+cat $NAME
+cat
