@@ -331,3 +331,12 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 grep 'meow' kitty_ipsum_1.txt
 man grep
 grep --color 'meow' kitty_ipsum_1.txt
+grep -f 'meow' kitty_ipsum_1.txt
+grep -e 'meow' kitty_ipsum_1.txt
+man grep
+grep -v 'meow' kitty_ipsum_1.txt
+man grep
+grep -c
+grep -c 'meow' kitty_ipsum_1.txt
+grep -n 'meow' kitty_ipsum_1.txt
+grep --color -n 'meow' kitty_ipsum_1.txt
