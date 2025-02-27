@@ -363,3 +363,5 @@ grep -c 'meow[a-z]*' kitty_ipsum_1.txt >> kitty_info.txt
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 man grep
+__vsc_prompt_cmd_original
+cat name.txt
