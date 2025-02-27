@@ -350,3 +350,4 @@ __vsc_prompt_cmd_original
 grep --color -c 'meow[a-z]*' kitty_ipsum_1.txt
 grep --color 'meow[a-z]*' kitty_ipsum_1.txt
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt
+man grep
