@@ -362,3 +362,4 @@ grep -c 'meow[a-z]*' >> kitty_info.txt
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt >> kitty_info.txt
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
+man grep
