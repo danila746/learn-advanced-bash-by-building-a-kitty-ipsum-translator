@@ -412,3 +412,7 @@ sed 's/freecodecamp/f233C0d3C@mp/g' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/i' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/i' >> name.txt
 sed 's/freecodecamp/f233C0d3C@mp/i' < name.txt
+cat
+sed 's/freecodecamp/f233C0d3C@mp/i' < name.txt
+__vsc_prompt_cmd_original
+cat name.txt
