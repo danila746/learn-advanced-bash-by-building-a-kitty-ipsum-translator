@@ -41,3 +41,5 @@ Number of lines:
 Number of words:
 307
 307
+
+Number of characters:
