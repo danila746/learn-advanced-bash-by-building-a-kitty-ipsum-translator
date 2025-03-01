@@ -502,3 +502,6 @@ cat wc -w < kitty_ipsum_2.txt >> kitty_info.txt
 cat kitty_ipsum_2.txt -w < wc >> kitty_info.txt
 wc -w < kitty_ipsum_2.txt >> kitty_info.txt
 echo -e '\nNumber of characters:' >> kitty_info.txt
+wc -c < kitty_ipsum_2.txt >> kitty_info.txt
+man wc
+wc -m < kitty_ipsum_2.txt >> kitty_info.txt
