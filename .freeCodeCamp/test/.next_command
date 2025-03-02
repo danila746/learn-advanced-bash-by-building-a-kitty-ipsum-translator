@@ -636,3 +636,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_2.txt
+__vsc_prompt_cmd_original
+./translate.sh kitty_ipsum_1.txt > doggy_ipsum_1.txt
