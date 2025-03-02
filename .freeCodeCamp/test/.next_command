@@ -562,3 +562,7 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo -e '\nNumber of times cat, cats, or catnip appears:' >> kitty_info.txt
+grep -o 'cat[a-z]*' kitty_ipsum_2.txt
+man wc
+grep -o 'cat[a-z]*' kitty_ipsum_2.txt
+grep -o 'cat[a-z]*' kitty_ipsum_2.txt
